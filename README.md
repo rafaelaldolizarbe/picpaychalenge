@@ -33,7 +33,7 @@ A seguir estão algumas regras de negócio que são importantes para o funcionam
 
 `````mermaid
 ---
-title: Order example
+title: Transaction example
 ---
 erDiagram
     CUSTOMER ||--o{ TRANSACTION : places
