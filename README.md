@@ -29,7 +29,7 @@ A seguir estão algumas regras de negócio que são importantes para o funcionam
 
 - [ ] Este serviço deve ser RESTFul.
 
-
+# Modelo Entidade Relacionamento
 
 `````mermaid
 ---
